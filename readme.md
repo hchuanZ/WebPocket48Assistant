@@ -4,3 +4,6 @@ feat：
 3、没有去做网站部署之类的，就一个 html 文件，分享出去，本地打开，短信验证码登录即可用
 
 4、感谢原作者开源～
+
+原仓库：https://github.com/Lawaxi/WebPocket48Assistant
+fork 仓库：https://github.com/hchuanZ/WebPocket48Assistant
